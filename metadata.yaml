@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39843#Women-of-HistorySelected-from-the-Writings-of-Standard-Authors
 gutenberg_issued: '2012-05-29'
 gutenberg_type: Text
 identifiers:
