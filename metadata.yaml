@@ -1,0 +1,61 @@
+_repo: Women-of-HistorySelected-from-the-Writings-of-Standard-Authors_39843
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39843-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2012-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'CT'
+tableOfContents: Lucretia / Bayle -- Sappho / Mure -- Aspasia of Pericles / Grote
+  -- Xantippe / Brucker -- Aspasia of Cyrus / Bayle -- Cornelia, The Mother of the
+  Gracchi / Plutarch -- Portia / Plutarch -- Octavia / Bayle -- Cleopatra / Merivale
+  -- Mariamne / Merivale -- Julia Domna / Gibbon -- Zenobia / Gibbon -- Valeria /
+  Gibbon -- Eudocia / Gibbon -- Hypatia / Brucker -- The Wife of Maximus / Gibbon
+  -- The Lady Rowena / Verstegan -- Olga / Gibbon -- The Lady Elfrida / Hume -- The
+  Countess of Tripoli / Sismondi -- Jane, Countess of Mountfort / Hume -- Laura de
+  Sade / Sismondi -- The Countess of Richmond / Tytler -- Elizabeth Woodville / Hume
+  -- Joan of Arc / De Quincey -- Jane Shore / Hume -- Catharine of Arragon / Tytler
+  -- Anne Boleyn / Tytler -- Margaret Roper / Ballard -- Elizabeth Lucas / Ballard
+  -- Gaspara Stampa / Hallam -- Anne Askew / Hume -- Queen Elizabeth / Hume—Macaulay
+  -- Lady Jane Grey / Hume -- Tarquinia Molza / Hilarion de Coste -- Mary, Queen of
+  Scots / Robertson -- Gabrielle D'Estrees / Davenport Adams -- Anne, Duchess of Pembroke
+  / Bishop Rainbow -- Esther Inglis / Ballard -- Margaret, Duchess of Newcastle /
+  Ballard -- Lady Pakington / Ballard -- Noor Mahal / James Mill -- Pocahontas / Dr
+  Hugh Murray -- Lucy Hutchinson / Jeffrey -- Lady Fanshawe / Jeffrey -- Dorothy Osborne
+  / Macaulay -- Catherine Philips / Ballard -- Madame de Maintenon / St Simon -- Countess
+  de Grammont / Count A. Hamilton -- Mademoiselle de la Valliere / Davenport Adams
+  -- Madame Dacier / Hallam -- Lady Masham / Ballard -- Anne Killigrew / Ballard --
+  Queen Anne / Miss Strickland -- Esther Johnson / Jeffrey -- Esther Vanhomrigh /
+  Sir Walter Scott -- Mary Astell / Ballard -- Madame des Ursins / St Simon -- Lady
+  Grizel Jerviswoode / Anderson -- Madame de Pontchartrain / St Simon -- Elizabeth
+  Halkett / Conolly -- Lady Mary Wortley Montagu / Jeffrey -- Madame du Deffand /
+  Jeffrey -- Phœbe Bentley / Cumberland -- Marquise du Chatelet / Professor Craik
+  -- Lady Huntingdon / Isaac Taylor -- Maria Theresa / Carlyle -- Meta Moller / Letters
+  -- Elizabeth Blackwell / James Bruce -- Lætitia Barbauld / Johnstone -- Hannah More
+  / Professor Craik -- Anna Seward / Sir Walter Scott -- Catherine Cockburn / Professor
+  Craik -- Elizabeth Berkeleigh / Temple Bar -- Caroline Herschel / Professor Craik
+  -- Madame D'Arblay / Macaulay -- Madame Roland / Carlyle -- Marie Antoinette / Carlyle
+  -- Sarah Siddons / Cunningham -- Mrs Grant / Professor Craik -- Elizabeth Inchbald
+  / Cunningham -- Elizabeth Hamilton / Professor Craik -- Countess de Vemieiro / Sismondi
+  -- Joanna Baillie / Professor Spalding -- Josephine / Alison -- Anne Radcliffe /
+  Edinburgh Review -- Miss Edgeworth / Jeffrey -- Charlotte Corday / Carlyle -- Madame
+  de Stael / Jeffrey -- Madame de la Rochejaquelein / Jeffrey -- Madame Recamier /
+  Davenport Adams -- Mary Brunton / Dr Brunton -- Felicia Hemans / Jeffrey -- Augustina
+  Saragoza / Alison -- Charlotte Bronte / Mrs Gaskell.
+title: 'Women of History: Selected from the Writings of Standard Authors'
+url: http://www.gutenberg.org/ebooks/39843
